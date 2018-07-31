@@ -25,7 +25,7 @@ You can reach me on:
 </form>
 
 <style>
-form.wj-contact input[type="email"], form.wj-contact textarea[type="text"] {
+form input[type="email"], form textarea[type="text"] {
     width: 100%;
     vertical-align: middle;
     margin-top: 0.25em;
@@ -41,7 +41,7 @@ form.wj-contact input[type="email"], form.wj-contact textarea[type="text"] {
     transition: box-shadow .2s ease;
 }
 
-form.wj-contact input[type="submit"] {
+form button[type="submit"] {
     outline: none;
     color: white;
     background-color: #2e83e6;
