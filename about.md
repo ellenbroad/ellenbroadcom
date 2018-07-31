@@ -16,4 +16,11 @@ You can reach me on:
 
 * [Twitter](https://twitter.com/ellenbroad)
 * [LinkedIn](https://www.linkedin.com/in/ellen-broad-316b6732)
-* by email 
+* by email using the contact form below.
+
+<form action="https://formspree.io/ellen@ellenbroad.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
