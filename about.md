@@ -18,9 +18,8 @@ You can reach me on:
 * [LinkedIn](https://www.linkedin.com/in/ellen-broad-316b6732)
 * by email using the contact form below.
 
-<form action="https://formspree.io/ellen@ellenbroad.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
+<form method="POST" action="https://formspree.io/ellen@ellenbroad.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
