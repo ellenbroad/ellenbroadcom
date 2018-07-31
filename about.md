@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
 I'm a data policy wonk and data tinkerer, who moved back to Australia in September 2016 after working in London, the Hague and Paris.
 
