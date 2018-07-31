@@ -19,7 +19,7 @@ You can reach me on:
 * by email using the contact form below.
 
 <form method="POST" action="https://formspree.io/ellen@ellenbroad.com">
-  <input type="email" name="email" placeholder="Your email">
+  <input type="email" name="_replyto" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
   <input type="submit">
 </form>
