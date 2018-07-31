@@ -12,11 +12,7 @@ I write about open data, data ethics, privacy and AI-type things in various plac
 
 I like science fiction films, board games and pop music and I like incorporating these into data-related work [wherever I can](https://twitter.com/peterkwells/status/609727042855268352?ref_src=twsrc%5Etfw). I even co-designed a [board game about open data](http://theodi.org/news/you-can-now-buy-your-own-copy-of-datopolis-the-open-data-board-game) with Jeni Tennison that's been picked up in 19 countries.
 
-You can reach me on:
-
-* [Twitter](https://twitter.com/ellenbroad)
-* [LinkedIn](https://www.linkedin.com/in/ellen-broad-316b6732)
-* by email using the contact form below.
+You can reach me on [Twitter](https://twitter.com/ellenbroad) or by email using the contact form below.
 
 <form method="POST" action="https://formspree.io/ellen@ellenbroad.com">
   <input type="email" name="_replyto" placeholder="Your email">
