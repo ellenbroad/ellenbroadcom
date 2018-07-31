@@ -20,12 +20,12 @@ You can reach me on:
 
 <form method="POST" action="https://formspree.io/ellen@ellenbroad.com">
   <input type="email" name="email" placeholder="Your email">
-  <textarea type="text" name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
+  <textarea name="message" placeholder="Your message"></textarea>
+  <input type="submit">
 </form>
 
 <style>
-form input[type="email"], form textarea[type="text"] {
+form input[type="email"], form textarea {
     width: 100%;
     vertical-align: middle;
     margin-top: 0.25em;
@@ -41,7 +41,7 @@ form input[type="email"], form textarea[type="text"] {
     transition: box-shadow .2s ease;
 }
 
-form button[type="submit"] {
+form input[type="submit"] {
     outline: none;
     color: white;
     background-color: #2e83e6;
