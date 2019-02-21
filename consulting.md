@@ -3,9 +3,7 @@ title: Consulting
 layout: page
 ---
 
-I'm a freelance data strategist, standards, policy and governance
-expert and trainer. I'm also an Associate with the [Open Data
-Institute]. You can find out more about my professional background at
+I'm an independent consultant in data standards, infrastructure, policy and governance. Increasingly, as data becomes a driving force in debates about artificial intelligence, privacy and surveillance I've been drawn into work in these areas too. You can find out more about my professional background at
 [LinkedIn.]
 
 I'm efficient, effective and creative in how I approach my work. I'm
@@ -17,21 +15,21 @@ page](http://ellenbroad.com/about/).
 Expertise
 ---------
 
--   Open data
 -   Open standards
 -   Personal data management
+-   Data within artificial intelligence
 -   Data ethics
 -   Data policy - data protection, sharing and reuse
--   Organisational data strategies
+-   Open data
 -   Law and licensing
 
 My work involves
 ----------------
 
 -   Developing organisational data policies and strategies
--   Delivering open standards projects, specifically around API
-    standards for consumer data sharing
--   Providing expert advice on topical data policy issues
+-   Delivering open standards projects, specifically API
+    standards for consumer data sharing in the banking sector
+-   Providing expert advice on topical data policy issues, increasingly AI and data ethics
 -   Delivering data training and interactive workshops
 -   Identifying data-related risks and ways of addressing them
 -   Coming up with creative ways to engage people about data
