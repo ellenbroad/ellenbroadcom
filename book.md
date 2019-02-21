@@ -2,5 +2,5 @@
 title: Book
 layout: page
 image: /assets/images/book.jpg
-headerImage: false
+headerImage: true
 ---
