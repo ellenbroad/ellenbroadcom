@@ -1,6 +1,6 @@
 ---
 title: Book
 layout: page
+image: /assets/images/book.jpg
+headerImage: false
 ---
-
-!![Image of Book](https://github.com/ellenbroad/ellenbroadcom/blob/master/assets/images/book.png)
