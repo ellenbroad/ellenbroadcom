@@ -1,6 +1,6 @@
 ---
 title: Book
 layout: page
-image: /assets/images/book.jpg
-headerImage: true
 ---
+
+![Image of book](/assets/images/book.png)
