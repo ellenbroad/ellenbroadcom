@@ -30,6 +30,12 @@
             {% endif %}
         {% endif %}
 
+        {% if page.title != "Book" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/book">Book</a>
+            </li>
+        {% endif %}
+
         {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
@@ -38,11 +44,7 @@
             {% endif %}
         {% endif %}
 
-        {% if page.title != "Book" %}
-            <li class="item">
-                <a class="link" href="{{ site.url }}/book">Book</a>
-            </li>
-        {% endif %}
+
 
 
     </ul>
