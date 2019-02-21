@@ -3,4 +3,4 @@ title: Book
 layout: page
 ---
 
-test content
+!![Image of Book](https://github.com/ellenbroad/ellenbroadcom/blob/master/assets/images/book.png)
