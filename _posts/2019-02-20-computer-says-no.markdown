@@ -1,5 +1,5 @@
 ---
-title: "In Griffith Review No.64: Computer Says No"
+title: "Griffith Review No.64: Computer Says No"
 layout: post
 date: 2019-02-20 12:00
 image: false
