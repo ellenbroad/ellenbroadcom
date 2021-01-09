@@ -1,5 +1,5 @@
 ---
-title: "On Inside Story: Will We Finally Look Clearly at Facial Recognition Technology?"
+title: "In Inside Story: Will We Finally Look Clearly at Facial Recognition Technology?"
 layout: post
 date: 2020-01-24 12:00
 image: false
