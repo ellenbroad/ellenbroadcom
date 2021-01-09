@@ -1,5 +1,5 @@
 ---
-title: "In ANU Reporter Vol 51 No 1: Radical, Responsive, Inclusive - Experiments in Education at 3Ai and around the World"
+title: "ANU Reporter Vol 51 No 1: Radical, Responsive, Inclusive - Experiments in Education at 3Ai and around the World"
 layout: post
 date: 2020-03-01 12:00
 image: false
