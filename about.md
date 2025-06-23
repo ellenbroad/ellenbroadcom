@@ -12,7 +12,7 @@ I write about artificial intelligence, open data, data ethics and privacy in var
 
 I like science fiction films, board games and pop music and I like incorporating these into data-related work [wherever I can](https://twitter.com/peterkwells/status/609727042855268352?ref_src=twsrc%5Etfw). I even co-designed a [board game about open data](http://theodi.org/news/you-can-now-buy-your-own-copy-of-datopolis-the-open-data-board-game) with Jeni Tennison that's been picked up in 19 countries.
 
-I'm on hiatus from writing and publishing at the moment, but am looking forward to returning to it in the future. 
+I'm on hiatus from writing and publishing at the moment, but am looking forward to returning to it in the future. I am not monitoring messages through this website closely while on hiatus. 
 
 <form method="POST" action="https://formspree.io/ellen@ellenbroad.com">
   <input type="email" name="_replyto" placeholder="Your email">
